@@ -1,2 +1,3 @@
 # Myfirstrepo
-This is m first project
+This is my first project
+This is my secound line
